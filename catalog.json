@@ -1,0 +1,22 @@
+{
+ "format": 1,
+ "updated": "2026-11-10",
+ "products": {
+  "cabinet_tools": {
+   "version": "0.3.0",
+   "url": "",
+   "notes": ""
+  },
+  "cad_draft": {
+   "version": "0.3.0",
+   "url": "",
+   "notes": ""
+  },
+  "ranger_design_studio": {
+   "version": "0.16.0",
+   "url": "",
+   "notes": ""
+  }
+ },
+ "packs": []
+}
